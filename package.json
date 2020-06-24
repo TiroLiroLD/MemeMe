@@ -1,0 +1,27 @@
+{
+  "name": "mememe",
+  "version": "1.0.0",
+  "description": "Simple meme generator with user name input and random image based on desired subject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiroLiroLD/MemeMe.git"
+  },
+  "keywords": [
+    "meme",
+    "generator",
+    "name",
+    "cats",
+    "dogs",
+    "subjects"
+  ],
+  "author": "Leone Daher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiroLiroLD/MemeMe/issues"
+  },
+  "homepage": "https://github.com/TiroLiroLD/MemeMe#readme"
+}
